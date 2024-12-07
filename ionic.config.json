@@ -1,0 +1,7 @@
+{
+  "name": "Movie_Series",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
